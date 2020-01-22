@@ -1,3 +1,7 @@
 baseurl: ""
 url: "https://2020.duongnamtruong.com"
 description: Thiệp chúc mừng năm mới
+exclude: [
+          "Gemfile",
+          "Gemfile.lock"
+        ]
