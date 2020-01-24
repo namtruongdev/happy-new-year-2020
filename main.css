@@ -183,3 +183,10 @@ font-family: 'Dancing Script', cursive;
 .right {
   text-align: right;
 }
+.au {
+  position: fixed;
+  opacity: .7;
+  bottom: 0;
+  z-index: 999;
+  left: 0;
+}
