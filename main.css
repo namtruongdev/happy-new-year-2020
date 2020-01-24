@@ -190,3 +190,19 @@ font-family: 'Dancing Script', cursive;
   z-index: 999;
   left: 0;
 }
+.con-dau img{
+  position: absolute;
+  bottom: 70px;
+  right: 50px;
+  width: 200px;
+  z-index: 999999;
+}
+.author {
+position: relative;
+}
+.author p {
+  line-height: 1.7;
+}
+.color-red {
+  color:#ff4a4a;
+}
