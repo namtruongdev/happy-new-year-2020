@@ -1,6 +1,6 @@
 ---
 layout: post
-title: anh Dương Văn Thêm
+title: chú Dương Văn Thêm
 permalink: /:title.html
 relationship: Cháu trai của chú
 ---
